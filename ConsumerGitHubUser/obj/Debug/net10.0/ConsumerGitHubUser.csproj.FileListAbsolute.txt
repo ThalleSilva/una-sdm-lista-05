@@ -1,0 +1,14 @@
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.exe
+C:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.deps.json
+C:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.runtimeconfig.json
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.dll
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.pdb
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.AssemblyInfoInputs.cache
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.AssemblyInfo.cs
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.csproj.CoreCompileInputs.cache
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.dll
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\refint\ConsumerGitHubUser.dll
+c:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.pdb
+C:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.genruntimeconfig.cache
+C:\Users\324119278\Documents\Desenvolvidos\ConsumerGitHubUser\obj\Debug\net10.0\ref\ConsumerGitHubUser.dll
