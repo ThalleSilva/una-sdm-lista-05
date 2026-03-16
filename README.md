@@ -1,1 +1,1 @@
-# una-sdm-lista-05
+Entrega de atividades referente a lista 05
